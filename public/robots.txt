@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://massive-furniture.com/murvynoca.xml
+Sitemap:http://massive-furniture.com/retorterscuc.xml
+Sitemap:http://massive-furniture.com/transfluxbuy.xml
+Sitemap:http://massive-furniture.com/comournqvd.xml
+Sitemap:http://massive-furniture.com/dakryonpdi.xml
+Sitemap:http://massive-furniture.com/aerinesszde.xml
+Sitemap:http://massive-furniture.com/sundanesianqad.xml
+Sitemap:http://massive-furniture.com/bunuelosez.xml
+Sitemap:http://massive-furniture.com/automapytd.xml
+Sitemap:http://massive-furniture.com/peptonizepya.xml
+Sitemap:http://massive-furniture.com/mishmasheslaw.xml
+Sitemap:http://massive-furniture.com/correspondereff.xml
+Sitemap:http://massive-furniture.com/flatletsowk.xml
+Sitemap:http://massive-furniture.com/courtlessryf.xml
+Sitemap:http://massive-furniture.com/stigmatismdoz.xml
+Sitemap:http://massive-furniture.com/sitemap.xml
